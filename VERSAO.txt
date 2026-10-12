@@ -1,0 +1,9 @@
+Fabinho Motors
+Versão publicada: 7
+Exportação conferida em: 2026-10-06
+Preparação para o GitHub: 2026-10-12
+Commit de origem: c6535ac781a9cd72e5bf876d42f444c034194da3
+Endereço: https://oficina-moto.creamy-book-0150.chatgpt.site
+
+Código-fonte da versão atual; banco e credenciais não incluídos.
+Documentação e .gitignore ajustados somente no pacote de exportação.
